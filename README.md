@@ -224,23 +224,5 @@ Para convertir tu addon en una **librería npm** que puedas instalar desde cualq
 
 ---
 
-## 🎓 Conclusión
 
-Has aprendido a:
-
-- Configurar un addon nativo usando **Node-API** y **node-gyp**.
-- Escribir código C++ para interaccionar con la API de Windows.
-- Probar e integrar el módulo en Node.js y Electron.
-- **Publicar** el addon como **una librería npm** reutilizable.
-
-¡Listo para compartirlo con tu equipo y usarlo en producción!
-
-Has aprendido a:
-
-- Configurar un addon nativo usando **Node-API** y **node-gyp**.
-- Escribir código C++ para interaccionar con la API de Windows.
-- Probar e integrar el módulo en Node.js y Electron.
-- Reutilizar el addon en otros proyectos.
-
-¡Listo para compartirlo con tu equipo y usarlo en producción! }
 
