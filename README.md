@@ -23,6 +23,8 @@ node-gyp configure   # Genera archivos de proyecto:
                     ```
 
 Al final debe aparecer en consola `build finished successfully` y:
+
+node-gyp build
 ````
 
 build/Release/cursor\_lock.node
